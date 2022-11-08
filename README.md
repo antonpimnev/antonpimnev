@@ -1,12 +1,7 @@
-## Инженер-тестировщик, автоматизирую тестирование с помощью Selenium и C#/Java
-## Quality assurance engineer, test automation Selenium and C#/Java
-## В данный момент работаю в ООО "Каскад-ПРО", Тюмень, Российская Федерация 
-## I am currently working for Cascade-PRO LLC, Tyumen, Russia 
-
-## Открыт для предложений по работе / Open for work
-
-## Моё резюме / My CV
-[Link to my CV](https://docs.google.com/document/d/1gZswMgIKthaAlTvoye8haXoGJjtqQp3t/edit?usp=sharing&ouid=107744747218078249702&rtpof=true&sd=true)
+## Тестировщик-автоматизатор, тестирование с помощью Selenium и C#/Java
+## Automation quality assurance engineer, test automation Selenium and C#/Java
+## Работаю в КП "Респект", Уфа, Российская Федерация 
+## I am currently working for Respect LLC, Ufa, Russia 
 
 ### Примеры тестовой документации / Testing Documentation
 
