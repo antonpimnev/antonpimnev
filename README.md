@@ -3,9 +3,12 @@
 ## Работаю в КП "Респект", Уфа, Российская Федерация 
 ## I am currently working for Respect LLC, Ufa, Russia 
 
-### Примеры проектов автоматизации тестирования / Testing Automation Projects
+### Примеры проектов автоматизации тестирования UI / Testing Automation Projects UI
 - [Testing automation examples Java + Selenide](https://github.com/antonpimnev/diplom_ui)
 - [Testing automation examples C# + Selenium](https://github.com/antonpimnev/testing)
+
+### Примеры проектов автоматизации тестирования REST API / Testing Automation Projects REST API
+- [Testing automation examples Java + Rest-Assured](https://github.com/antonpimnev/qa_guru_rest_api/tree/diplom)
 
 ### Примеры тестовой документации / Testing Documentation
 - [Test-Suites and Test-Cases](https://github.com/antonpimnev/testcases)
