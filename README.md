@@ -1,11 +1,13 @@
-## Тестировщик-автоматизатор, тестирование с помощью Selenium и C#/Java
-## Automation quality assurance engineer, test automation Selenium and C#/Java
+## Тестировщик-автоматизатор, тестирование с помощью Selenium/Selenide и C#/Java
+## Automation quality assurance engineer, test automation Selenium/Selenide and C#/Java
 ## Работаю в КП "Респект", Уфа, Российская Федерация 
 ## I am currently working for Respect LLC, Ufa, Russia 
 
 ### Примеры тестовой документации / Testing Documentation
 
-- [Testing automation examples](https://github.com/antonpimnev/testing)
+- [Testing automation examples Java + Selenide](https://github.com/antonpimnev/diplom_ui)
+
+- [Testing automation examples C# + Selenium](https://github.com/antonpimnev/testing)
 - [Test-Suites and Test-Cases](https://github.com/antonpimnev/testcases)
 - [Bug-Reports](https://github.com/antonpimnev/bugreports)
 - [SQL Queries](https://github.com/antonpimnev/sqlqueries)
