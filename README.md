@@ -10,6 +10,9 @@
 ### Примеры проектов автоматизации тестирования REST API / Testing Automation Projects REST API
 - [Testing automation examples Java + Rest-Assured](https://github.com/antonpimnev/qa_guru_rest_api/tree/diplom)
 
+### Примеры проектов автоматизации тестирования приложений для Android и iOS / Testing Automation Projects Mobile Apps
+- [Testing automation examples Java + Browserstack](https://github.com/antonpimnev/qa_guru_hw22_mobile/tree/diplom)
+
 ### Примеры тестовой документации / Testing Documentation
 - [Test-Suites and Test-Cases](https://github.com/antonpimnev/testcases)
 - [Bug-Reports](https://github.com/antonpimnev/bugreports)
