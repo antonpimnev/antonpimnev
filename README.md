@@ -1,5 +1,5 @@
-## Тестировщик-автоматизатор, тестирование с помощью Java+Selenide и C#+Selenium
-## Automation quality assurance engineer, test automation Java+Selenide and C#+Selenium
+## Тестировщик-автоматизатор Java+Selenide и C#+Selenium
+## Automation quality assurance engineer Java+Selenide and C#+Selenium
 ## Работаю в КП "Респект", Уфа, Российская Федерация
 ## I am currently working for Respect LLC, Ufa, Russia
 
@@ -49,7 +49,7 @@
 * Владение языками: Русский – родной язык; Английский – A2-B1 (Intermediate)
 
 ### Образование
-* 11.2022-03.2023 – Обучение на курсе «Инженер по автоматизации тестирования на Java» QA.GURU
+* 11.2022-03.2023 – Обучение на курсе «Инженер по автоматизации тестирования на Java» [QA.GURU](https://qa.guru)
 * 2021 – uTest Academy – Полный интерактивный курс, включая недели практических испытаний
 * 2021 – Самообучение на основе книг, статей, видео-курсов:
     * Куликов С. – «Тестирование ПО. Базовый курс»
