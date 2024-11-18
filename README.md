@@ -1,5 +1,5 @@
-## Тестировщик-автоматизатор Java+Selenide и C#+Selenium
-## Automation quality assurance engineer Java+Selenide and C#+Selenium
+## Fullstack тестировщик-автоматизатор Java+Selenide и C#+Selenium
+## Fullstack / Automation quality assurance engineer Java+Selenide and C#+Selenium
 ## Работаю в КП "Респект", Уфа, Российская Федерация
 ## I am currently working for Respect LLC, Ufa, Russia
 
